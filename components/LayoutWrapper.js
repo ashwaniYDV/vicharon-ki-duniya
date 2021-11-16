@@ -17,8 +17,7 @@ const LayoutWrapper = ({ children }) => {
             <Link href="/" aria-label="Tailwind CSS Blog">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
-                  {/* <Logo /> */}
-                  <img src='https://www.svgrepo.com/show/3631/notebook.svg' width="30px" alt="logo" />
+                  <Logo />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
