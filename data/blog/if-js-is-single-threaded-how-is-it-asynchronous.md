@@ -45,7 +45,6 @@ Feels odd, right? Well, let's break this down line by line:
 Next, the Javascript engine's event loop kicks in, like a little kid asking "Are we there yet?" on a road trip. It starts firing, waiting for events to be pushed into it. Since the `setTimeout` isn't finished, it returns `undefined`, as the default, well because it hasn't been given the value yet. Once the callback finally does hits we get `console.log("second")` printed.
 
 There's a really good site that slows this all down and shows this happening.
-
 http://latentflip.com/loupe
 
 I suggest playing around in this sandbox to help solidify your understanding. It helped me get a feel for how asynchronous code can work with Javascript being single threaded.

@@ -7,7 +7,7 @@ const siteMetadata = {
   siteUrl: 'https://ashwani-iitp.vercel.app',
   siteRepo: 'https://github.com/ashwaniYDV/vicharon-ki-duniya',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'ashyadavash@gmail.com',
   github: 'https://github.com/ashwaniYDV/',
