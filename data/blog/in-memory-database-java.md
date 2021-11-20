@@ -1,7 +1,7 @@
 ---
 title: Design an in-memory database (OOD)
 date: '2021-11-21'
-tags: ['nodejs', 'javascript', 'web']
+tags: ['ood', 'lld', 'java']
 draft: false
 summary: Design an in-memory database using object-oriented principles.
 ---
