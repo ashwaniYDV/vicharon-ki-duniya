@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Vicharon Ki Duniya',
   author: 'Ashwani Yadav',
   headerTitle: 'Vicharon Ki Duniya',
-  description: "Ashwani's personal blog",
+  description: "Ashwani's Blog",
   language: 'en-us',
   siteUrl: 'https://ashwani-iitp.vercel.app',
   siteRepo: 'https://github.com/ashwaniYDV/vicharon-ki-duniya',
